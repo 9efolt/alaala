@@ -1,3 +1,8 @@
+body {
+  background:url(https://catherineasquithgallery.com/uploads/posts/2021-02/1613046190_64-p-oranzhevii-fon-ks-go-79.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 #menu1{
   position: relative;
   display: block;
@@ -80,7 +85,7 @@ svg {   height: 200px;
   width: 200px; 
 }
 header{  
-  background: #fffff; 
+  background: #ffffff; 
 } 
 Wikipedia{  
   display:flex; 
@@ -98,3 +103,9 @@ footer {
 main>div{
     display: flex;
   }
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+
+
